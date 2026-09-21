@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.8.0](https://github.com/paseo-cafe/paseo-cafe/compare/v0.7.1...v0.8.0) (2026-09-21)
+
+
+### Features
+
+* **registry:** make scans release-incremental ([#186](https://github.com/paseo-cafe/paseo-cafe/issues/186)) ([568ff91](https://github.com/paseo-cafe/paseo-cafe/commit/568ff91f08259235ec0ce7d36416aeeecc623420))
+
 ## [0.7.1](https://github.com/paseo-cafe/paseo-cafe/compare/v0.7.0...v0.7.1) (2026-09-20)
 
 
